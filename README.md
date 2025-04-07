@@ -1,4 +1,4 @@
-# Journal
+## Journal
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" class="textlink" target="_blank">IEEE Transactions on Neural Networks and Learning Systems </a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" class="textlink" target="_blank">IEEE Transactions on Knowledge and Data Engineering </a> <br>
@@ -22,5 +22,5 @@
 * <a href="https://iopscience.iop.org/journal/0266-5611" class="textlink" target="_blank">Inverse Problems </a> <br>
 
 
-# Conference
+## Conference
 
